@@ -28,6 +28,7 @@ facebook_username: ubuntuopenbox
 
 # Build settings
 markdown: kramdown
+
 theme: jekyll-theme-hacker
 gems:
   - jekyll-feed
@@ -38,3 +39,4 @@ exclude:
 gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "/blog/page:num/"
+gems: [redcarpet]

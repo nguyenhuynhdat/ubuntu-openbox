@@ -14,7 +14,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 900px;
+  max-width: 650px;
   margin: 0 auto;
 }
 
@@ -222,6 +222,12 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
+.btn-home .icon {
+  opacity: 0.6;
+  background: url("../images/home-icon.png") 0 0 no-repeat;
+}
+
+
 /* Links
    a, a:hover, a:visited
 */
@@ -245,3 +251,6 @@ a {
 .cf {
   zoom:1;
 }
+
+.highlight .lineno { color: #ccc; display:inline-block; padding: 0 5px; border-right:1px solid #ccc; }
+.highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
