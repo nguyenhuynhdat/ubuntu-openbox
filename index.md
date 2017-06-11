@@ -1,123 +1,21 @@
 ---
 layout: default
+title: ""
+description: ""
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Here is the image of my current setup for my productive works: A Debian Jessie with Openbox as its windows manager.
 
-[Link to another page](pages/another-page).
+![birdView]({{site.baseurl}}/images/birdView.jpg)
 
-There should be whitespace between paragraphs.
+A lot of people use Linux because it is free of charge, but [for me] its true free is about freedom. The freedom of choosing which distributions as OS, which packages for each specific task...
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Please keep in mind that this website is showing you only one way choosing packages according to my own preference. The ultimate purpose is to give you a first glimpse of the aforementioned "freedom", to tempt you to explore more the awesome world of Linux.
 
-# [](#header-1)Header 1
+[Here are the link to all the lessons]({{site.baseurl}}/lessons/lessons.html).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+You can also click to the "All The Lessons" button in the header of the website to go to the **lessons** page:
 
-## [](#header-2)Header 2
+![lessonsButton]({{site.baseurl}}/images/lessonsButton.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Hope you enjoy all the information!

@@ -1,7 +1,8 @@
 ---
 layout: default
+title: MULTIMEDIA APPLICATIONS
+description: install a video player, a music player, a media converter, an image suite, an image viewer and a better screenshoter .
 ---
-## Multimedia apps for Ubuntu Openbox
 
 ### 1. Play audio and video with VLC
 

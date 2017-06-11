@@ -1,6 +1,9 @@
 ---
 layout: default
+title: GRUB BOOTLOADER
+description: introduce some basic configurations of Grub bootloader.
 ---
+
 ## Grub bootloader
 
 >“A bootloader is the first program that runs when a computer starts. It is responsible for loading and transferring control to the Linux kernel. The kernel, in turn, initializes the rest of the operating system.”

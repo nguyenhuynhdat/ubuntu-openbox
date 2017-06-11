@@ -1,12 +1,12 @@
 ---
 layout: default
+title: FOUR ESSENTIAL COMMANDS
+description: learn about APT and apt-get.
 ---
-
-## Four essential commands
 
 ## Goal of this lesson:
 
-Although I am assume you are having enough experience to understand command line, I still introduce fours most important commands using in this course.
+Although you may have enough experience with command-line, to be familiar with these fours commands are very important for this course.
 
 They are:
 ```
@@ -17,7 +17,7 @@ $ nano
 ```
 This may be the most boring chapter of this series, but it is kind of the most important one. Please try to go through it!
 
-### What is Command line:
+### What is Command-line:
 
 A command is text which is written in a specific syntax. After entering a command into any terminal, the shell of your OS can understand and interpret this syntax and pass it to the OS to do what you want.
 
@@ -25,7 +25,7 @@ Some command only available for power user, and you need the command sudo before
 
 Why do we use command line a lot in this courses? Because we are building our operating system from the ground up. Most of the time we will not have the luxury of GUI.
 
-But relying on GUI is not a healthy attitude, command line actually is a powerful tool that will help you on every aspect of Linux.
+Moreover, relying on GUI is not a healthy attitude in my opinion, command line actually is a powerful tool that will help you on every aspect of Linux.
 
 ### Apt and the source.list file:
 

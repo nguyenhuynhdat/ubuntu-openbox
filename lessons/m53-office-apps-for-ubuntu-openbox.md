@@ -1,16 +1,16 @@
 ---
 layout: default
+title: OFFICE APPLICATIONS
+description: install a word processor, a spreedsheet, a pdf reader and an ebook reader.
 ---
 
-## Office apps for Ubuntu Openbox
+###1. Office suite:
 
-###1. Office applications:
-
-For normal use of office work, LibreOffice is competent:
+For normal use of office work, LibreOffice is competent enough:
 
 [https://www.libreoffice.org/](https://www.libreoffice.org/)
 
-You can either install entire office suite or only what you need. I only use two of the modules:
+You can either install entire of this office suite or pick out only what you need. I only use two of the modules:
 
 * Calc: spreadsheet application.
 

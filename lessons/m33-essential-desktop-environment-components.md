@@ -1,6 +1,9 @@
 ---
 layout: default
+title: ESSENTIAL DESKTOP ENVIRONMENT COMPONENTS
+description: install taskbar, file manager, wallpaper manager, network manager and power manager.
 ---
+
 ## Essential desktop environment Components
   + Taskbar
   + File manager (with achieve manager)

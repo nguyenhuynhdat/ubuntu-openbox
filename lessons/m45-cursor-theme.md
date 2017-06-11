@@ -1,7 +1,8 @@
 ---
 layout: default
+title: CURSOR THEME
+description: install an cursor theme.
 ---
-## Cursor theme for Ubuntu Openbox
 
 My mother once complained that the cursor on her Sony TV (connected to a PC) was a bit small for her eyes.
 

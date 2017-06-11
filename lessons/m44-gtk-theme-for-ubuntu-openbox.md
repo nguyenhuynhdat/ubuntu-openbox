@@ -1,7 +1,8 @@
 ---
 layout: default
+title: GTK THEME
+description: install and configure a GTK theme.
 ---
-## GTK theme for Ubuntu Openbox
 
 GTK themes will define the appearance of applications on your system: the interfaces, the color of the taskbar (lxpanel only, tint2 will use its own configuration), the backgrounds for windows and tabs, the looks of GTK applications.
 

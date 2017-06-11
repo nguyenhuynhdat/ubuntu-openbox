@@ -1,7 +1,8 @@
 ---
 layout: default
+title: CONFIGURE OPENBOX
+description: "configure three most important configuration files of Openbox: menu.xml, rc.xml and autostart."
 ---
-## Configuring Openbox
 
 _**OVERVIEW:**_
 

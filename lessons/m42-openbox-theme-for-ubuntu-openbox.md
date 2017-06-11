@@ -1,7 +1,8 @@
 ---
 layout: default
+title: OPENBOX THEME
+description: install an Openbox theme.
 ---
-## Openbox theme for Ubuntu Openbox
 
 An openbox theme will define the look of the border + the title bar + the right click menu.
 

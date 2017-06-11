@@ -1,6 +1,9 @@
 ---
 layout: default
+title: THEME SWITCHERS
+description:  Lxapperance is for changing Gtk theme, icon theme and cursor theme. Obconf is for changing Openbox theme
 ---
+
 ## Theme switcher
 Please take a look at these screenshots of my desktop.
 
@@ -16,9 +19,9 @@ First, I will install themes switchers, then show you how to change taskbar them
 
 The easiest way to changing theme and icon in Openbox is using a theme switcher. They are **Lxappearance** and **Obconf**.
 
-* Lxapperance has the option for you to change Gtk theme, icon theme and cursor theme.
+* Lxapperance is for changing Gtk theme, icon theme and cursor theme.
 
-* Obconf are for changing Openbox theme
+* Obconf is for changing Openbox theme.
 
 To install them:
 ```

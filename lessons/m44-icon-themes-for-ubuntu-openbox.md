@@ -1,7 +1,8 @@
 ---
 layout: default
+title: ICON THEME
+description: install and configure an icon theme.
 ---
-## Icon theme for Ubuntu Openbox
 
 Take a look at two Thunar windows in the screenshot. I have applied “AwOken” icon set (its name is really written like that, not a typo)
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: OVERVIEW OF THE INSTALLATION
+description: go through the steps you will take and the packages you will install.
 ---
 
 ## Goal of this lesson:
@@ -27,7 +29,7 @@ Let's go through the installation step by step together!
 
 1. Step 1: Install the base Ubuntu OS without any GUI.
 
-	This step only install ubuntu to the point of having a functional OS, on top of this base, we will build our Openbox and other desktop components.
+	This step only install Ubuntu to the point of having a functional OS, on top of this base, we will build our Openbox and other desktop components.
 
 2. Step 2: Install Xorg, the foundation of GUI.
 

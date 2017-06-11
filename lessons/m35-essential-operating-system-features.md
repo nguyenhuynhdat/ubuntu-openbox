@@ -1,6 +1,9 @@
 ---
 layout: default
+title: ESSENTIAL OPERATING SYSTEM FEATURES
+description: install notification mechanism, audio driver, Windows fonts, app for taking screenshot, screen locker.
 ---
+
 ## Essential operating system features
   + Notification mechanism
   + Audio driver

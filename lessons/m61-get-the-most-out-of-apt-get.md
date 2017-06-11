@@ -1,7 +1,8 @@
 ---
 layout: default
+title: GET THE MOST OUT OF APT-GET
+description: introduce some other apt-get commands.
 ---
-## Get the most out of apt-get
 
 Ubuntu/ Debian use **Apt (Advanced Package Tool)** as their package manager (a package manager is a tool that assist you on resolving dependencies when installing, upgrading, configuring, and removing software).
 

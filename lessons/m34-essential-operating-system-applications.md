@@ -1,10 +1,13 @@
 ---
 layout: default
+title: ESSENTIAL OPERATING SYSTEM APPLICATIONS
+description: install terminal emulator, text editor, GUI package manager, task manager.
 ---
+
 ## Essential operating system application
   + Terminal emulator
   + Text editor
-  + Synaptic
+  + Synaptic (GUI package manager)
   + Gdebi
   + Task manager (System monitor)
 

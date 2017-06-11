@@ -1,8 +1,8 @@
 ---
 layout: default
+title: INTERNET APPLICATIONS
+description: install a web browser, an email client, a torrent client and a download manager .
 ---
-
-## Internet apps for Ubuntu Openbox
 
 ### 1. Firefox as web browser
 
